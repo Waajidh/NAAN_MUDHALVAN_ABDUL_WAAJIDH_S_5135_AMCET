@@ -3,4 +3,4 @@
 Project created by : Abdul Waajidh S
 
 Username : Admin
-Passwoed : Admin
+Password : Admin
